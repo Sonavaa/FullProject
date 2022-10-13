@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} .First{
+    text-align: center;
+    margin-top: 15%;
+    height: 100%; 
+} 
+.First h1{
+    font-size: 4rem;
+    margin-bottom: 0.25rem;
+
+}
+.First h4{
+    font-style: italic;
+    font-size: calc(1.3rem + 0.6vw);
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 3rem;
+}
+.First button{
+    padding: 1.25rem 2.5rem;
+    background-color: #1D809F;
+    border-color: #1D809F;
+    color: white;
+    margin-bottom: 15rem;
+}
+.Second{
+    text-align: center;
+    background-color: white;
+}
+.Second h2{
+    font-size: calc(1.325rem + 0.9vw);
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+}.Second p{
+    margin-bottom: 3rem;
+    font-size: 1.25rem;
+} .Second button{
+    padding: 1.25rem 2.5rem;
+    background-color: #212529;
+    border-color: #212529;
+    color: white;
+}.Fourth{
+
+}.Fourth h2{
+
+}.Fourth p{
+    font-style: italic;
+}
